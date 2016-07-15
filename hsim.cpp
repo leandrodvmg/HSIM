@@ -1,3 +1,6 @@
+/* L. Galvão and L. Merschmann. HSIM: A Supervised Imputation Method for Hierarchical Classification Scenario.
+In International Conference on Discovery Science. */
+
 #include <iostream>
 #include <fstream>
 #include <string>
