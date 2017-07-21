@@ -2,9 +2,6 @@
 #### Preservation of Predictive Power
 8 bioinformatics datasets related to gene functions of yeast.<br>
 <br>
-#### Fidelity to Known Value
-8 bioinformatics datasets related to protein function.<br>
-<br>
 ### Available Source Code
 <b>Hierarchical Supervised Imputation Method (HSIM)</b> is written in C++ programming language and should be started from the command prompt (Windows) or a terminal window (Linux).<br>
 The format of the data file is Weka's ARFF format. Datasets used in first batch of experiments are kept in the "yeast_datasets" folder while datasets used in second batch of experiments are kept in the "protein_datasets" folder.<br>
